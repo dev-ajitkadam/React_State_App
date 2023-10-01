@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev-ajitkadam/React_State_App.git/static/css/main.ed100973.css",
+    "main.js": "/dev-ajitkadam/React_State_App.git/static/js/main.54b9ea1d.js",
+    "static/js/787.df593370.chunk.js": "/dev-ajitkadam/React_State_App.git/static/js/787.df593370.chunk.js",
+    "index.html": "/dev-ajitkadam/React_State_App.git/index.html",
+    "main.ed100973.css.map": "/dev-ajitkadam/React_State_App.git/static/css/main.ed100973.css.map",
+    "main.54b9ea1d.js.map": "/dev-ajitkadam/React_State_App.git/static/js/main.54b9ea1d.js.map",
+    "787.df593370.chunk.js.map": "/dev-ajitkadam/React_State_App.git/static/js/787.df593370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed100973.css",
+    "static/js/main.54b9ea1d.js"
+  ]
+}
